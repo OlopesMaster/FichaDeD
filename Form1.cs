@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Threading;
+using System.Diagnostics.Eventing.Reader;
 
 namespace FichaDeD
 {
@@ -15,6 +17,7 @@ namespace FichaDeD
         public Form1()
         {
             InitializeComponent();
+
         }
     }
 }

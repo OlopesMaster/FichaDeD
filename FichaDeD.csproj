@@ -52,6 +52,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="forms\dado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\dado.Designer.cs">
+      <DependentUpon>dado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\Ficha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\Ficha.Designer.cs">
+      <DependentUpon>Ficha.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -76,5 +88,40 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="settings\classe\barbaro.txt" />
+    <Content Include="settings\classe\paladino.txt" />
+    <Content Include="settings\classe\patrulheiro.txt" />
+    <Content Include="settings\classe\bruxo.txt" />
+    <Content Include="settings\classe\clerico.txt" />
+    <Content Include="settings\classe\duida.txt" />
+    <Content Include="settings\classe\mago.txt" />
+    <Content Include="settings\classe\feiticero.txt" />
+    <Content Include="settings\classe\guerreiro.txt" />
+    <Content Include="settings\classe\ladino.txt" />
+    <Content Include="settings\classe\monge.txt" />
+    <Content Include="settings\classe\bardo.txt" />
+    <Content Include="settings\perso-settings.txt" />
+    <Content Include="settings\antecedentes.txt" />
+    <Content Include="settings\raca\sub-raca\anao\anao-montanha .txt" />
+    <Content Include="settings\raca\sub-raca\anao\anao-colina.txt" />
+    <Content Include="settings\raca\sub-raca\elfo\alto-elfo.txt" />
+    <Content Include="settings\raca\sub-raca\elfo\elfo-floresta.txt" />
+    <Content Include="settings\raca\sub-raca\elfo\elfo-negro.txt" />
+    <Content Include="settings\raca\sub-raca\gnomo\gnomo-floresta.txt" />
+    <Content Include="settings\raca\sub-raca\gnomo\gnomo-pedra.txt" />
+    <Content Include="settings\raca\sub-raca\halfling\pes-leves.txt" />
+    <Content Include="settings\raca\sub-raca\halfling\robusto.txt" />
+    <Content Include="settings\raca\tiefling.txt" />
+    <Content Include="settings\raca\meio-orc.txt" />
+    <Content Include="settings\raca\meio-helfo.txt" />
+    <Content Include="settings\raca\humano.txt" />
+    <Content Include="settings\raca\halfling.txt" />
+    <Content Include="settings\raca\gnomo.txt" />
+    <Content Include="settings\raca\elfo.txt" />
+    <Content Include="settings\raca\draconato.txt" />
+    <Content Include="settings\raca\anao.txt" />
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

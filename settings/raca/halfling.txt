@@ -1,1 +1,5 @@
-﻿
+﻿AtaquesMagias:
++2 (destreza)
+sortudo
+bravura
+agilidade halfling

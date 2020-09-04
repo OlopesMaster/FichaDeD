@@ -1,1 +1,7 @@
-﻿
+﻿AtaquesMagias:
++2 (destreza)
+visao-escuro
+sentidos-agucados
+ancestral-feerico
+trase
+idiomas

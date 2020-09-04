@@ -1,1 +1,3 @@
-﻿
+﻿AtaquesMagias:
++1 (todos)
++1 (idioma)

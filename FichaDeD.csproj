@@ -99,7 +99,7 @@
     <Content Include="settings\classe\paladino.txt" />
     <Content Include="settings\classe\patrulheiro.txt" />
     <Content Include="settings\classe\bruxo.txt" />
-    <Content Include="settings\classe\clerico.txt" />
+    <Content Include="settings\classe\clerigo.txt" />
     <Content Include="settings\classe\duida.txt" />
     <Content Include="settings\classe\mago.txt" />
     <Content Include="settings\classe\feiticero.txt" />

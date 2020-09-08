@@ -1,6 +1,6 @@
 ﻿AtaquesMagias:
 +2 (destreza)
-visao-escuro
++18m (visao-escuro)
 sentidos-agucados
 ancestral-feerico
 trase

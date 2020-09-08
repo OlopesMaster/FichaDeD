@@ -1,1 +1,6 @@
-﻿
+﻿AtaquesMagias:
++2 (forca)
++1 (carisma)
+ancestrar draconico
+arma de sopro
+resistencia a dano
